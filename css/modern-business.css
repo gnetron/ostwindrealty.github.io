@@ -6,6 +6,15 @@
 
 /* Global Styles */
 
+.garamond {
+    font-family: Garamond, serif;
+    font-size: 1.10em;
+}
+
+.indent {
+    text-indent: 50px;
+}
+
 html,
 body {
     height: 100%;
