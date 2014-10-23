@@ -11,8 +11,23 @@
     font-size: 1.10em;
 }
 
+.garamond-large {
+    font-family: Garamond, serif;
+    font-size: 2em;
+}
+
+.seventy {
+    height: 70%;
+    width: 70%;
+}
+
 .indent {
     text-indent: 50px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
 }
 
 html,
