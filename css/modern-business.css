@@ -11,6 +11,10 @@
     font-size: 1.10em;
 }
 
+.content-section-a {
+    padding: 70px;
+}
+
 .garamond-large {
     font-family: Garamond, serif;
     font-size: 2.2em;
