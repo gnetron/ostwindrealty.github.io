@@ -11,6 +11,11 @@
     font-size: 1.10em;
 }
 
+.img-centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .garamond-large {
     font-family: Garamond, serif;
