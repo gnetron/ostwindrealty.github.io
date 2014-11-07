@@ -42,6 +42,11 @@
     margin: 0 auto;
 }
 
+.about-info {
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+
 html,
 body {
     height: 100%;
